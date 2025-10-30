@@ -1,9 +1,15 @@
 // ==UserScript==
-// @name         Tumblr Video Control
-// @namespace    http://tampermonkey.net/
-// @version      31.1
+// @name         Tampermonkey Tumblr Video Control
+// @namespace    https://github.com/aeit/tampermonkey-tumblr-video-control
+// @version      31.2.0
 // @description  P — play with sound, O — muted, M — toggle mute. No autoplay.
+// @author       aeit
 // @match        *://*.tumblr.com/*
+// @match        *://tumblr.com/*
+// @homepageURL  https://github.com/aeit/tampermonkey-tumblr-video-control
+// @supportURL   https://github.com/aeit/tampermonkey-tumblr-video-control/issues
+// @updateURL    https://raw.githubusercontent.com/aeit/tampermonkey-tumblr-video-control/main/tampermonkey-tumblr-video-control.user.js
+// @downloadURL  https://raw.githubusercontent.com/aeit/tampermonkey-tumblr-video-control/main/tampermonkey-tumblr-video-control.user.js
 // @run-at       document-idle
 // @grant        none
 // @license      MIT
