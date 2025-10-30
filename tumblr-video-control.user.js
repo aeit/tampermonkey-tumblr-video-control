@@ -6,6 +6,7 @@
 // @match        *://*.tumblr.com/*
 // @run-at       document-idle
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 (function() {
     'use strict';
