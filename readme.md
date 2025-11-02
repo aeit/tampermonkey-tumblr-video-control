@@ -13,7 +13,7 @@
 - No UI clutter  
 - Survives Tumblr redesigns
 
-![Demo GIF]((./assets/animation.gif))
+![Demo GIF](https://github.com/aeit/tampermonkey-tumblr-video-control/blob/main/assets/animation.gif)
 
 *(P: Play with sound | O: Muted play | M: Toggle mute)*
 
@@ -40,9 +40,9 @@
 
 ## Screenshots
 
-![Before: Autoplay hell](./assets/p_before.png)
+![Before: Autoplay hell](https://github.com/aeit/tampermonkey-tumblr-video-control/blob/main/assets/p_before.png)
 
-![After: Peace](./assets/p_after.png)
+![After: Peace](https://github.com/aeit/tampermonkey-tumblr-video-control/blob/main/assets/p_after.png)
 
 ## Support the Project
 
