@@ -3,7 +3,7 @@
 > Full keyboard control for Tumblr videos: No autoplay, no surprises. Just you in charge.
 > 
 
-*(P: Play with sound | O: Muted play | M: Toggle mute)*
+*P: Play with sound | O: Muted play | M: Toggle mute*
 
 - Blocks autoplay on all videos  
 - Works after page changes  
