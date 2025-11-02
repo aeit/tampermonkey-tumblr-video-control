@@ -10,7 +10,9 @@
 - No UI clutter  
 - Survives Tumblr redesigns
 
-![Demo GIF](https://github.com/aeit/tampermonkey-tumblr-video-control/blob/main/assets/demo.gif)
+##Demo
+
+![Keys in action](https://github.com/aeit/tampermonkey-tumblr-video-control/blob/main/assets/demo.gif)
 
 ## Why?
 
