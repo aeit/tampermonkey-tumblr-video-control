@@ -5,12 +5,12 @@
 
 *P: Play with sound | O: Muted play | M: Toggle mute*
 
-- Blocks autoplay on all videos  
+- Blocks autoplay **only on videos** (GIFs are not affected)  
 - Works after page changes  
 - No UI clutter  
 - Survives Tumblr redesigns
 
-##Demo
+## Demo
 
 ![Keys in action](https://github.com/aeit/tampermonkey-tumblr-video-control/blob/main/assets/demo.gif)
 
@@ -26,7 +26,7 @@
 - **P**: Play video with sound
 - **O**: Play muted
 - **M**: Toggle mute on/off
-- **Blocks all autoplay** on load/scroll
+- **Blocks all autoplay only on videos** (GIFs continue to loop normally)  
 - **Survives page changes**
 
 ## Install
