@@ -1,14 +1,7 @@
-# Tumblr Video Control
+# Tumblr Video Autoplay Blocker + Keyboard Control
 
-> Full keyboard control for Tumblr videos: No autoplay, no surprises. Just you in charge.
-> 
-
-*P: Play with sound | O: Muted play | M: Toggle mute*
-
-- Blocks autoplay **only on videos** (GIFs are not affected)  
-- Works after page changes  
-- No UI clutter  
-- Survives Tumblr redesigns
+**P** – Play | **O** – Muted | **M** – Mute toggle  
+**No autoplay. GIFs live. Pure keyboard.**
 
 ## Demo
 
