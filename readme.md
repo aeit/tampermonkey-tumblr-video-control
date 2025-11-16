@@ -3,7 +3,7 @@
 > **P**: Play with sound | **O**: Muted play | **M**: Toggle mute  
 > **No autoplay. GIFs live. Pure keyboard.**
 
-[![GreasyFork](https://img.shields.io/badge/Install_on_GreasyFork-blue?logo=greasyfork)](https://greasyfork.org/uk/scripts/554155-tampermonkey-tumblr-video-control)
+[![GreasyFork](https://img.shields.io/badge/Install_on_GreasyFork-blue?logo=greasyfork)](https://greasyfork.org/uk/scripts/554155-tumblr-video-autoplay-blocker-keyboard-control)
 [![Stars](https://img.shields.io/github/stars/aeit/tampermonkey-tumblr-video-control?style=social)](https://github.com/aeit/tampermonkey-tumblr-video-control)
 ![Made in Ukraine](https://img.shields.io/badge/Made_in-Ukraine-blue?logo=ukraine)
 
@@ -42,7 +42,7 @@
 ## Install
 
 1. [Install Tampermonkey](https://www.tampermonkey.net/) or Violentmonkey
-2. [Get it on GreasyFork](https://greasyfork.org/uk/scripts/554155-tampermonkey-tumblr-video-control)
+2. [Get it on GreasyFork](https://greasyfork.org/uk/scripts/554155-tumblr-video-autoplay-blocker-keyboard-control)
 3. Reload Tumblr — keys work instantly!
 
 ## Screenshots
