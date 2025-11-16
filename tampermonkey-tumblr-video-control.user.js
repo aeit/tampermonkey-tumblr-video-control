@@ -2,18 +2,19 @@
 // @name         Tumblr Video Autoplay Blocker + Keyboard Control
 // @namespace    https://github.com/aeit/tampermonkey-tumblr-video-control
 // @version      31.2.1
-// @description  P — play with sound, O — muted, M — toggle mute. No autoplay.
+// @description  P — play with sound, O — muted play, M — toggle mute. Blocks autoplay on videos only (GIFs keep looping). No UI clutter. Survives redesigns.
 // @author       aeit
-// @match        *://*.tumblr.com/*
-// @match        *://tumblr.com/*
-// @homepageURL  https://github.com/aeit/tampermonkey-tumblr-video-control
-// @supportURL   https://github.com/aeit/tampermonkey-tumblr-video-control/issues
-// @updateURL    https://raw.githubusercontent.com/aeit/tampermonkey-tumblr-video-control/main/tampermonkey-tumblr-video-control.user.js
-// @downloadURL  https://raw.githubusercontent.com/aeit/tampermonkey-tumblr-video-control/main/tampermonkey-tumblr-video-control.user.js
-// @run-at       document-idle
+// @match        https://*.tumblr.com/*
+// @match        https://tumblr.com/*
 // @grant        none
 // @license      MIT
+// @run-at       document-start
+// @homepageURL  https://github.com/aeit/tampermonkey-tumblr-video-control
+// @supportURL   https://github.com/aeit/tampermonkey-tumblr-video-control/issues
+// @downloadURL  https://greasyfork.org/scripts/554155-tumblr-video-autoplay-blocker-keyboard-control/code/Tumblr%20Video%20Autoplay%20Blocker%20%2B%20Keyboard%20Control.user.js
+// @updateURL    https://greasyfork.org/scripts/554155-tumblr-video-autoplay-blocker-keyboard-control/code/Tumblr%20Video%20Autoplay%20Blocker%20%2B%20Keyboard%20Control.meta.js
 // ==/UserScript==
+
 (function() {
     'use strict';
     const origPlay = HTMLMediaElement.prototype.play;
