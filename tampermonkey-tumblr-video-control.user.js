@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Tampermonkey Tumblr Video Control
+// @name         Tumblr Video Autoplay Blocker + Keyboard Control
 // @namespace    https://github.com/aeit/tampermonkey-tumblr-video-control
-// @version      31.2.0
+// @version      31.2.1
 // @description  P — play with sound, O — muted, M — toggle mute. No autoplay.
 // @author       aeit
 // @match        *://*.tumblr.com/*
