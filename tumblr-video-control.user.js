@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tumblr Video Autoplay Blocker + Keyboard Control
 // @namespace    https://github.com/aeit/tampermonkey-tumblr-video-control
-// @version      31.2.1
+// @version      31.2.2
 // @description  P — play with sound, O — muted play, M — toggle mute. Blocks autoplay on videos only (GIFs keep looping). No UI clutter. Survives redesigns.
 // @author       aeit
 // @match        https://*.tumblr.com/*
