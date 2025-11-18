@@ -9,8 +9,8 @@
 // @grant        none
 // @license      MIT
 // @run-at       document-idle
-// @homepageURL  https://github.com/aeit/tampermonkey-tumblr-video-control
-// @supportURL   https://github.com/aeit/tampermonkey-tumblr-video-control/issues
+// @homepageURL  https://github.com/aeit/tumblr-video-control
+// @supportURL   https://github.com/aeit/tumblr-video-control/issues
 // @downloadURL  https://greasyfork.org/scripts/554155-tumblr-video-autoplay-blocker-keyboard-control/code/Tumblr%20Video%20Autoplay%20Blocker%20%2B%20Keyboard%20Control.user.js
 // @updateURL    https://greasyfork.org/scripts/554155-tumblr-video-autoplay-blocker-keyboard-control/code/Tumblr%20Video%20Autoplay%20Blocker%20%2B%20Keyboard%20Control.meta.js
 // ==/UserScript==
